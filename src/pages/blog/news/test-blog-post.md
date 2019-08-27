@@ -1,7 +1,7 @@
 ---
 type: news
 date: 2016-12-17T15:04:10.000Z
-cover: /img/flavor_wheel.jpg
+cover: /images/flavor_wheel.jpg
 title: Test Blog Post
 ---
 
